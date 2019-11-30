@@ -30,4 +30,4 @@ The following notebooks inside the `notebooks` directory contain the reproducabl
 - `UIUC.ipynb`
 - `UCLA_regression.ipynb`
 
-For more details, please refer to `Report.ipynb` and the project slides in the `Slides` directory.
+For more details, please refer to `Report.pdf` and the project slides in the `Slides` directory.
