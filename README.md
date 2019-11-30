@@ -32,8 +32,7 @@ The following notebooks inside the `notebooks` directory contain the reproducabl
 
 For more details, please refer to `Report.pdf` and the project slides in the `Slides` directory.
 Project done by:
-
-Vishaal Udandarao (2016119)
-Suryatej Reddy (2016102)
-Surabhi S Nath (2016271)
-Suril Mehta (2015104)
+- Vishaal Udandarao (2016119)
+- Suryatej Reddy (2016102)
+- Surabhi S Nath (2016271)
+- Suril Mehta (2015104)
