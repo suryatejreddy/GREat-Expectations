@@ -25,7 +25,7 @@ We perform our experiments on three major case studies:
 - University of Illinois, Urbana Champaign
 - University of California, Los Angeles
 
-The following notebooks contain the reproducable code for the EDA, classification and regression analysis and results:
+The following notebooks inside the `notebooks` directory contain the reproducable code for the EDA, classification and regression analysis and results:
 - `CMU_analysis.ipynb`
 - `UIUC.ipynb`
 - `UCLA_regression.ipynb`
