@@ -1,4 +1,4 @@
-# GreatExpectations
+# GREat Expectations
 
 ### Introduction
 
